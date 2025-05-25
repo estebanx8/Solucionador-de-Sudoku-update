@@ -48,7 +48,7 @@ Aquí se han realizado varias mejoras para optimizar la experiencia de usuario y
 ## Créditos
 
 - Código base: [Jeremy Vanegas](https://github.com/Jeremy-Vanegas/Solucionador-de-Sudokus)
-- Mejoras y optimización de interfaz: [Esteban Torres] (https://github.com/estebanx8)
+- Mejoras y optimización de interfaz: [Esteban Torres](https://github.com/estebanx8)
 
 ---
 
